@@ -1,0 +1,21 @@
+/* Flowchart.css */
+
+.flowchart-container {
+    margin: 20px;
+  }
+  
+  .flowchart-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .flowchart-table th, .flowchart-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .flowchart-table th {
+    background-color: #f2f2f2;
+  }
+  

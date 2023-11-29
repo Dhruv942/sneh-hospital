@@ -1,0 +1,19 @@
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    /* border: 2px solid rgba(255, 255, 255, 0.1); Border color */
+    background-color: #1d2630; /* Background color */
+    color: white; /* Text color */
+  }
+  
+  .table th,
+  .table td {
+    padding: 8px;
+    border: 2px solid rgba(255, 255, 255, 0.5); /* Border color for table cells */
+  }
+  
+  .table th {
+    background-color: #1d2630; /* Header background color */
+    color: white; /* Header text color */
+  }
+  
